@@ -1,0 +1,14 @@
+{
+  "name": "roman-coin",
+  "version": "1.0.0",
+  "description": "A blockchain server application.",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "crypto-js": "^4.0.0"
+  }
+}
